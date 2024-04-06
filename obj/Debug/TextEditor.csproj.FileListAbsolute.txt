@@ -1,0 +1,10 @@
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\cosmi\source\repos\ProiectEditareText\TextEditor\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
