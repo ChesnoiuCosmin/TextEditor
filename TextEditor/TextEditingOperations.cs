@@ -26,7 +26,7 @@ namespace TextEditor
 
             public void Execute()
             {
-                // Convertirea textului selecționat în majuscule
+                
                 textBox.SelectedText = textBox.SelectedText.ToUpper();
             }
         }
@@ -71,7 +71,6 @@ namespace TextEditor
 
             public void Execute()
             {
-                // Îngroșarea textului selecționat
                 textBox.SelectionFont = new Font(textBox.Font, FontStyle.Bold);
             }
         }
@@ -103,7 +102,6 @@ namespace TextEditor
 
             public void Execute()
             {
-                // Se modifică stilul textului selecționat pentru a fi în italic
                 textBox.SelectionFont = new Font(textBox.Font, FontStyle.Italic);
             }
         }
@@ -119,7 +117,6 @@ namespace TextEditor
 
             public void Execute()
             {
-                // Se modifică stilul textului selecționat pentru a fi subliniat
                 textBox.SelectionFont = new Font(textBox.Font, FontStyle.Underline);
             }
         }
@@ -135,7 +132,6 @@ namespace TextEditor
 
             public void Execute()
             {
-                // Se aliniază textul la centru
                 textBox.SelectionAlignment = HorizontalAlignment.Center;
             }
         }
@@ -151,7 +147,6 @@ namespace TextEditor
 
             public void Execute()
             {
-                // Se aliniază textul la dreapta
                 textBox.SelectionAlignment = HorizontalAlignment.Right;
             }
         }

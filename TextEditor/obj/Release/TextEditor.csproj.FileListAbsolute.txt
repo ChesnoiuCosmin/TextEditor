@@ -1,0 +1,10 @@
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\bin\Release\TextEditor.exe
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.csproj.AssemblyReference.cache
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.TextEditorForm.resources
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.cache
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.exe
+C:\Users\cosmi\Desktop\TextEditor\TextEditor\TextEditor\obj\Release\TextEditor.pdb
